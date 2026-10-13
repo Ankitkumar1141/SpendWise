@@ -131,8 +131,6 @@ pytest tests/test_delete_expense.py
 ## 👤 Author
 
 - **Ankit Kumar**
-- Email: [am0287883@gmail.com](mailto:am0287883@gmail.com)
-- GitHub: [@Ankitkumar1141](https://github.com/Ankitkumar1141)
 
 ---
 
